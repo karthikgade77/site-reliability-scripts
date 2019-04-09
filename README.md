@@ -1,9 +1,6 @@
 # site-reliability-scripts
-Procore Site Reliability scripts that we want to share with the world.
+Procore Site Reliability scripts
 
-## Licence
-site-reliability-scripts is copyright © 2016 Procore. It is free software, and
-may be redistributed under the terms specified in the LICENSE file.
 
 ## About Procore
 
